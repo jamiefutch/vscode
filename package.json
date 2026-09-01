@@ -205,6 +205,7 @@
     "@vscode/component-explorer": "^0.2.1-94",
     "@vscode/component-explorer-cli": "^0.2.1-95",
     "@vscode/gulp-electron": "^1.43.0",
+    "@vscode/gulp-vinyl-zip": "^2.7.0",
     "@vscode/l10n-dev": "0.0.35",
     "@vscode/telemetry-extractor": "^1.20.4",
     "@vscode/test-cli": "^0.0.6",
